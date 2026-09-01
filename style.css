@@ -45,7 +45,7 @@ h2 {
 
 .content > p {
   margin: 0;
-  color: #a8b2d8;
+  color: #dadeef;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -80,7 +80,7 @@ h2 {
   font-weight: 600;
   padding: 10px 20px;
   background: #f4f1f1;
-  border: 1px solid #7b7171;
+  border: 1px solid #fefdfdfe;
   border-radius: 100px;
   transition:
     background 0.25s ease,
@@ -94,4 +94,13 @@ h2 {
   color: #fff;
   border-color: #000;
   transform: translateY(-2px);
+}
+#interests h3 {
+  color: red;
+  font-family: Arial;
+}
+
+#interests li {
+  color: red;
+  font-family: Arial;
 }
